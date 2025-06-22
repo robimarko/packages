@@ -6,4 +6,4 @@ on:
 jobs:
   build:
     name: Feeds Package Test Build
-    uses: robimarko/actions-shared-workflows/.github/workflows/multi-arch-test-build.yml@apk-local-feed
+    uses: robimarko/actions-shared-workflows/.github/workflows/multi-arch-test-build.yml@fixup
