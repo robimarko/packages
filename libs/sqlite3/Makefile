@@ -144,3 +144,4 @@ endef
 
 $(eval $(call BuildPackage,libsqlite3))
 $(eval $(call BuildPackage,sqlite3-cli))
+
